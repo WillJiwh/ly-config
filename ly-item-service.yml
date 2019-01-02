@@ -37,3 +37,6 @@ mybatis:
 logging:
   level:
     com.will.item: debug
+management:
+  security:
+    enabled: false
